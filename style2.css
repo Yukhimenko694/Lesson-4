@@ -1,0 +1,26 @@
+.prp{
+    background-color: rgb(88, 88, 65);
+    width: 70px;
+ margin: 30px 30px 30px 30px;
+ padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+.one{
+    text-decoration: none;
+}
+.two{
+    text-decoration: none;
+}
+.three{
+    text-decoration: none;
+}
+.four{
+    text-decoration: none;
+}
+A:hover{
+    color: rgb(5, 5, 255);
+    background-color: green
+}
+A:active{
+    color: black
+}

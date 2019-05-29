@@ -1,0 +1,31 @@
+.main{
+width: 600px;
+text-align:center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+margin: 30px 30px 30px 30px;
+background-color: darkslategrey;
+font-size: 25px; 
+word-spacing: 20px;
+}
+
+
+a{
+    color: darkgray;
+    padding: 1px;
+}
+
+
+A:link{
+text-decoration: none;
+}
+
+
+A:hover{
+    color: darkgoldenrod;
+    background-color: rgba(210, 211, 207, 0.452);
+} 
+
+
+A:active{
+    color: rgba(0, 0, 0, 0.288);
+}
